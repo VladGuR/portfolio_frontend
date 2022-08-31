@@ -156,15 +156,15 @@ body{
 .my-portfolio-projects-center{
     width: 80%;
     display: flex;
-    flex-direction: column;
     flex-wrap: wrap;
     align-items: space-between;
     justify-content: space-between;
 }
 
 .project-cart{
-    width:49%;
+    width:48%;
     height:400px;
+    margin: 10px;
 }
 
 .project-cart img{
